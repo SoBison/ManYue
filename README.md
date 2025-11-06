@@ -46,9 +46,13 @@ https://apps.apple.com/cn/app/%E6%BC%AB%E9%98%85/id6753895889
 
 ## App 源
 
-漫阅漫画源1
+[漫阅漫画源1](https://git.nyne.dev/nyne/venera-configs/raw/branch/main/index.json)
 
-```
-https://git.nyne.dev/nyne/venera-configs/raw/branch/main/index.json
-```
+
+# 免责声明
+
+### 本项目基于[venera](https://github.com/venera-app/venera)二次开发,采用GNU General Public License v3.0开源协议！
+### 漫阅不提供任何漫画源，所有源均为网上搜集；使用源时，请自行斟酌是否符合法律法规！！！如使用源过程中产生的任何问题，一切责任与漫阅无关！！！
+
+
 
