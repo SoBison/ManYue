@@ -6,16 +6,6 @@ https://apps.apple.com/cn/app/%E6%BC%AB%E9%98%85/id6753895889
 ```
 
 
-
-## App 源
-
-漫阅漫画源1
-
-```
-https://git.nyne.dev/nyne/venera-configs/raw/branch/main/index.json
-```
-
-
 漫阅——你的私人高清漫画阅读管家
 
 「漫阅」是一款专为漫画爱好者打造的轻量级NAS本地阅读神器，以「自由掌控阅读体验」为核心，让你随时随地沉浸于心仪的漫画世界！
@@ -53,4 +43,12 @@ https://git.nyne.dev/nyne/venera-configs/raw/branch/main/index.json
 
 
 「漫阅」——不绑架你的漫画来源，只专注提升你的阅读体验。现在下载，把喜欢的漫画装进口袋，想看随时翻，翻页随心动！
+
+## App 源
+
+漫阅漫画源1
+
+```
+https://git.nyne.dev/nyne/venera-configs/raw/branch/main/index.json
+```
 
