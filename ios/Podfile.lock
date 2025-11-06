@@ -1,0 +1,144 @@
+PODS:
+  - app_links (0.0.2):
+    - Flutter
+  - battery_plus (1.0.0):
+    - Flutter
+  - file_selector_ios (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_7zip (0.0.1):
+    - Flutter
+  - flutter_file_dialog (0.0.1):
+    - Flutter
+  - flutter_inappwebview_ios (0.0.1):
+    - Flutter
+    - flutter_inappwebview_ios/Core (= 0.0.1)
+    - OrderedSet (~> 6.0.3)
+  - flutter_inappwebview_ios/Core (0.0.1):
+    - Flutter
+    - OrderedSet (~> 6.0.3)
+  - flutter_memory_info (0.0.1):
+    - Flutter
+  - flutter_qjs (0.0.1):
+    - Flutter
+  - local_auth_darwin (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - lodepng_flutter (0.0.1):
+    - Flutter
+  - OrderedSet (6.0.3)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - rhttp (0.0.1):
+    - Flutter
+  - share_plus (0.0.1):
+    - Flutter
+  - sqlite3 (3.49.2):
+    - sqlite3/common (= 3.49.2)
+  - sqlite3/common (3.49.2)
+  - sqlite3/dbstatvtab (3.49.2):
+    - sqlite3/common
+  - sqlite3/fts5 (3.49.2):
+    - sqlite3/common
+  - sqlite3/perf-threadsafe (3.49.2):
+    - sqlite3/common
+  - sqlite3/rtree (3.49.2):
+    - sqlite3/common
+  - sqlite3_flutter_libs (0.0.1):
+    - Flutter
+    - FlutterMacOS
+    - sqlite3 (~> 3.49.0)
+    - sqlite3/dbstatvtab
+    - sqlite3/fts5
+    - sqlite3/perf-threadsafe
+    - sqlite3/rtree
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - zip_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - app_links (from `.symlinks/plugins/app_links/ios`)
+  - battery_plus (from `.symlinks/plugins/battery_plus/ios`)
+  - file_selector_ios (from `.symlinks/plugins/file_selector_ios/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_7zip (from `.symlinks/plugins/flutter_7zip/ios`)
+  - flutter_file_dialog (from `.symlinks/plugins/flutter_file_dialog/ios`)
+  - flutter_inappwebview_ios (from `.symlinks/plugins/flutter_inappwebview_ios/ios`)
+  - flutter_memory_info (from `.symlinks/plugins/flutter_memory_info/ios`)
+  - flutter_qjs (from `.symlinks/plugins/flutter_qjs/ios`)
+  - local_auth_darwin (from `.symlinks/plugins/local_auth_darwin/darwin`)
+  - lodepng_flutter (from `.symlinks/plugins/lodepng_flutter/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - rhttp (from `.symlinks/plugins/rhttp/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
+  - sqlite3_flutter_libs (from `.symlinks/plugins/sqlite3_flutter_libs/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - zip_flutter (from `.symlinks/plugins/zip_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OrderedSet
+    - sqlite3
+
+EXTERNAL SOURCES:
+  app_links:
+    :path: ".symlinks/plugins/app_links/ios"
+  battery_plus:
+    :path: ".symlinks/plugins/battery_plus/ios"
+  file_selector_ios:
+    :path: ".symlinks/plugins/file_selector_ios/ios"
+  Flutter:
+    :path: Flutter
+  flutter_7zip:
+    :path: ".symlinks/plugins/flutter_7zip/ios"
+  flutter_file_dialog:
+    :path: ".symlinks/plugins/flutter_file_dialog/ios"
+  flutter_inappwebview_ios:
+    :path: ".symlinks/plugins/flutter_inappwebview_ios/ios"
+  flutter_memory_info:
+    :path: ".symlinks/plugins/flutter_memory_info/ios"
+  flutter_qjs:
+    :path: ".symlinks/plugins/flutter_qjs/ios"
+  local_auth_darwin:
+    :path: ".symlinks/plugins/local_auth_darwin/darwin"
+  lodepng_flutter:
+    :path: ".symlinks/plugins/lodepng_flutter/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  rhttp:
+    :path: ".symlinks/plugins/rhttp/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
+  sqlite3_flutter_libs:
+    :path: ".symlinks/plugins/sqlite3_flutter_libs/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  zip_flutter:
+    :path: ".symlinks/plugins/zip_flutter/ios"
+
+SPEC CHECKSUMS:
+  app_links: f3e17e4ee5e357b39d8b95290a9b2c299fca71c6
+  battery_plus: 34f72fa2afeeea83bbae306c72a25828d3ec727a
+  file_selector_ios: f0670c1064a8c8450e38145d8043160105d0b97c
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  flutter_7zip: d70de361349d3388028690c8978b90fae267b241
+  flutter_file_dialog: 4c014a45b105709a27391e266c277d7e588e9299
+  flutter_inappwebview_ios: 6f63631e2c62a7c350263b13fa5427aedefe81d4
+  flutter_memory_info: 10992fb7cadf5f0f341ffa5c1aef6d3432967522
+  flutter_qjs: 042bf2c5bef292039d7eaac1e77791556b4333a3
+  local_auth_darwin: 66e40372f1c29f383a314c738c7446e2f7fdadc3
+  lodepng_flutter: dcc0de1b12231277f8fb9e7d44f6a987e36a8573
+  OrderedSet: e539b66b644ff081c73a262d24ad552a69be3a94
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  rhttp: 367a8162e63311c6dde543169b591cc04454dcd6
+  share_plus: 8b6f8b3447e494cca5317c8c3073de39b3600d1f
+  sqlite3: 3c950dc86011117c307eb0b28c4a7bb449dce9f1
+  sqlite3_flutter_libs: 069c435986dd4b63461aecd68f4b30be4a9e9daa
+  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
+  zip_flutter: ad751254a2a56688310c200187b2fac8bf83767c
+
+PODFILE CHECKSUM: abd3071c3798147190079d32cd7c9d7d9f0df55a
+
+COCOAPODS: 1.15.2
