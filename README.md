@@ -5,6 +5,8 @@
 https://apps.apple.com/cn/app/%E6%BC%AB%E9%98%85/id6753895889
 ```
 
+## 本项目基于[venera](https://github.com/venera-app/venera)二次开发,采用GNU General Public License v3.0开源协议！
+
 
 漫阅——你的私人高清漫画阅读管家
 
