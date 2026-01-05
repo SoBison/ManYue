@@ -48,7 +48,7 @@ https://apps.apple.com/cn/app/%E6%BC%AB%E9%98%85/id6753895889
 
 ## App 源
 
-[漫阅漫画源1](https://git.nyne.dev/nyne/venera-configs/raw/branch/main/index.json)
+[漫阅漫画源1](https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/index.json)
 
 
 # 免责声明
